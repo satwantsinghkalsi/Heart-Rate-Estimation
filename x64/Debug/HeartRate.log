@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\satwa\documents\visual studio 2015\projects\heartrate\heartrate\source.cpp(146): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satwa\documents\visual studio 2015\projects\heartrate\heartrate\source.cpp(271): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\satwa\documents\visual studio 2015\projects\heartrate\heartrate\source.cpp(272): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\satwa\documents\visual studio 2015\projects\heartrate\heartrate\source.cpp(274): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\satwa\documents\visual studio 2015\projects\heartrate\heartrate\source.cpp(401): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  HeartRate.vcxproj -> C:\Users\satwa\Documents\Visual Studio 2015\Projects\HeartRate\x64\Debug\HeartRate.exe
